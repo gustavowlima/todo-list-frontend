@@ -22,9 +22,9 @@ To-do list criado com HTML, CSS e JavaScript para o 3º desafio do curso INPUT d
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- JavaScript
-- HTML
-- CSS
+- React.jS
+- Tailwind
+- Typescript
 
 ---
 
